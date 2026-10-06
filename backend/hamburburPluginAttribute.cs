@@ -4,7 +4,7 @@ namespace hamburburPluginTemplate.Backend;
 
 public enum PluginCategory
 {
-    OP,
+    Skibidi,
 }
 
 [AttributeUsage(AttributeTargets.Class)]
